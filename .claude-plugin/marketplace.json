@@ -1,0 +1,31 @@
+{
+  "name": "ajtc-company",
+  "owner": {
+    "name": "AJTC株式会社"
+  },
+  "metadata": {
+    "description": "質問を重ねながら、会社の憲法・権限・部署・運営ルールを育てるClaude Codeプラグイン。"
+  },
+  "plugins": [
+    {
+      "name": "ajtc-company",
+      "source": "./plugins/ajtc-company",
+      "description": "秘書を窓口に、会社組織を段階構築する仮想会社プラグイン。",
+      "version": "0.1.0",
+      "author": {
+        "name": "AJTC株式会社"
+      },
+      "repository": "https://github.com/ajtcsolution/ajtc-company",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": [
+        "company",
+        "organization",
+        "secretary",
+        "governance",
+        "productivity",
+        "management"
+      ]
+    }
+  ]
+}
